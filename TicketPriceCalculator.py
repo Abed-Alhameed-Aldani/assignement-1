@@ -9,7 +9,3 @@ elif age >= 5:
 elif age <5 :
  print("You can join for free")
 
-
-
-
- 
